@@ -1,5 +1,5 @@
 # HBnB Version 1
-AirBnB clone - The console Group project Python OOP By: Guillaume Weight: 5 Project to be done in teams of 2 people (your team: Sarah Kasande, Rugamba Yvan) Project will  have  Manual QA review must be done (request it when you are done with the project) An auto review will be launched at the deadline Concepts For this project, we expect you to look at these concepts:
+AirBnB clone - The console Group project Python OOP B: Sarah Kasande and  Yvan Trey, Weight: 5 Project to be done in teams of 2 people (your team: Sarah Kasande, Rugamba Yvan) Project will  have  Manual QA review must be done (request it when you are done with the project) An auto review will be launched at the deadline Concepts For this project, we expect you to look at these concepts:
 
 ### Python packages AirBnB clone
 
